@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "806740072120",
+    "firebase_url": "https://dcet-9b389.firebaseio.com",
+    "project_id": "dcet-9b389",
+    "storage_bucket": "dcet-9b389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806740072120:android:432910e50744577c",
+        "android_client_info": {
+          "package_name": "com.dcet.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806740072120-b7djkqdmtfmtotn32h2h2s7cu91ed068.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpcDARZ0w-c0F6vfniryd7Oi5EjdCz2lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

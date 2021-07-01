@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Attendance</string>
+
+    <string-array name="branch">
+        <item>Select Branch</item>
+        <item>CSE IIA</item>
+        <item>CSE IIB</item>
+        <item>CSE IIIA</item>
+        <item>CSE IIIB</item>
+        <item>CSE IVA</item>
+        <item>CSE IVB</item>
+        <item>IT II</item>
+        <item>IT III</item>
+        <item>IT IV</item>
+    </string-array>
+    <string-array name="Semester">
+        <item>Select Semester</item>
+        <item>Semester 1</item>
+        <item>Semester 2</item>
+
+    </string-array>
+    <string-array name="Subject">
+        <item>Select Subject</item>
+        <item>Subject1</item>
+        <item>Subject2</item>
+        <item>Subject3</item>
+        <item>Subject4</item>
+        <item>Subject5</item>
+        <item>Subject6</item>
+    </string-array>
+    <string-array name="Section">
+        <item>Select Section</item>
+        <item>Section A</item>
+        <item>Section B</item>
+        <item>Section C</item>
+        <item>Section D</item>
+
+    </string-array>
+</resources>

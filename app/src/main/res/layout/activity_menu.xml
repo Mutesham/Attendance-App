@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    android:background="#fff"
+    tools:context=".MenuActivity">
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Take Attandance"
+        android:textStyle="bold"
+        android:paddingLeft="10dp"
+        android:gravity="center"
+        android:id="@+id/TakeAttandance"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:layout_marginTop="15dp"
+        android:background="#565"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Show List"
+        android:textStyle="bold"
+        android:paddingLeft="10dp"
+        android:gravity="center"
+        android:id="@+id/CheckList"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:layout_marginTop="15dp"
+        android:background="#555"/>
+
+
+
+</LinearLayout>
