@@ -1,8 +1,13 @@
 # Attendance-App-
 An Android Application developed in Java programming language. This provides a platform to manage attendance of students, generate attendance reports, manage and record student details, etc. This application is used to record data for 1,000+ students daily. This app was developed for DCET. 
 
+Adding few screenshots from the app:  
 
-
+![image1](https://github.com/Mutesham/Attendance-App/blob/main/images/Picture1.png)
+![image2](https://github.com/Mutesham/Attendance-App/blob/main/images/Picture2.png)
+![image3](https://github.com/Mutesham/Attendance-App/blob/main/images/Picture3.png)
+![image4](https://github.com/Mutesham/Attendance-App/blob/main/images/Picture5.png)
+![image5](https://github.com/Mutesham/Attendance-App/blob/main/images/Picture6.png)
 
 
 
